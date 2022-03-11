@@ -18,6 +18,7 @@ public class StaticVsInstance {
 		
 		// Spot get sold
 		Dog.count =2;
+		goodDog3.count =3;
 		
 		System.out.println(goodDog1.name);
 		System.out.println(goodDog2.name);
