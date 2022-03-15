@@ -3,9 +3,14 @@ package com.demo.basics;
 public class ArraysEx {
 	public static void main(String[] args) {
 //		singleDimArray();
+//		twoDArray();
+		shortestString();
+	}
+
+	private static void twoDArray() {
 		String seatArray[][] = new String[2][5];
 		seatArray[0][0] = "Dad";
-		seatArray[0][1]= "Mon";
+		seatArray[0][1]= "Mom";
 		seatArray[0][2]= "Son";
 		seatArray[0][3] = "Daughter";
 		seatArray[0][4] = "Pet Tommy";
@@ -24,6 +29,22 @@ public class ArraysEx {
 		}
 	}
 
+	private static void shortestString() {
+		String seatArray[] = new String[3];
+		seatArray[2] = "Dad";
+		seatArray[1] = "Daughter";
+		seatArray[0] = "Pet Tommy";
+
+		String shortestString = seatArray[0];
+		for (int ctr = 1; ctr < seatArray.length; ctr++) {
+			if(shortestString.length() > seatArray[ctr].length()) {
+			//longest string
+//			if(shortestString.length() < seatArray[ctr].length()) {
+				shortestString = seatArray[ctr];
+			}
+		}
+		System.out.println(shortestString);
+	}
 	private static void singleDimArray() {
 		String seatArray[] = new String[5];
 		seatArray[0] = "Dad";
