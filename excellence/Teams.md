@@ -5,7 +5,7 @@ Team 1 : Trishna Manasa
 Team 2 : Swetha [CR] Keshaw (Adopter)
 Team 3 : Sania Akhilesh
 Team 4 : Mohiddin Srikanth [CR]
-Team 5 : Harsh Lohitha
+<!-- Team 5 : Harsh Lohitha -->
 
 
 
