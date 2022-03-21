@@ -1,18 +1,26 @@
 :books: **PLAN**
 
-:book: **CRITIAL**
+:book: **TO DO**
 
+
+-----------------------------
+ :books: **DONE**  
+ 
 - loops
 - if else
 - switch case
 - methods/functions
 - study materials [hand made material, geeksforgeeks]
-
------------------------------
 - classes
 - object
 - string arrays
-- practice programs
+
+:lock: **practice programs**  
+* write a program to accept and store the rainbow colors in an array
+* use switch case to accept a number 1 -7 and print the color.
+
+
+
 
 :lock: **project**  
 :lock: **synax learning**
