@@ -5,11 +5,13 @@
 - loops
 - if else
 - switch case
-- methods functions
+- methods/functions
+- study materials [hand made material, geeksforgeeks]
+
+-----------------------------
 - classes
 - object
 - string arrays
-- study materials [hand made material, geeksforgeeks]
 - practice programs
 
 :lock: **project**  
